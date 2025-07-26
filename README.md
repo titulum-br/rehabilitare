@@ -1,2 +1,2 @@
-# rehabilitare
-Rehabilitare Web Site
+# rehabilitare - Privacy Policy
+Rehabilitare Android App Privacy Policy
